@@ -1,0 +1,5 @@
+{
+  "name": "Heart Beats Art",
+  "description": "An app that analyzes beats per minute (BPM) data from a CSV file on wearable devices and transforms it into a beautiful, colorful abstract art image in the user's favorite color, using generative artificial intelligence. It's a way to visualize the emotion of a lived moment.",
+  "requestFramePermissions": []
+}
